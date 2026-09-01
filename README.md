@@ -22,10 +22,10 @@ I'm not presenting this as professional experience — it's a working record of 
 | Blue Team / SOC | Log analysis, Sigma detection rules, SSH/auth log triage, incident response |
 | Scripting | Python (log parsing / automation), Bash |
 
-## Certifications (in progress / planned)
+## Certifications
 
+- [x] CompTIA Security+
 - [ ] CompTIA Network+
-- [ ] CompTIA Security+
 - [ ] TryHackMe SOC Level 1 path
 
 See [`certs/README.md`](certs/README.md) for study log details.
