@@ -8,9 +8,7 @@ I'm not presenting this as professional experience — it's a working record of 
 
 | Folder | What it covers |
 |---|---|
-| [`home-lab/`](home-lab/) | Design and build log for a virtualized home lab (firewall, domain controller, client, attacker VM) |
-| [`networking/`](networking/) | Networking fundamentals: subnetting practice, packet capture exercises |
-| [`blue-team/`](blue-team/) | Log analysis, detection rules, and incident response playbooks |
+| [`projects/`](projects/) | Hands-on projects — networking, blue-team detection, and links out to standalone project repos (like the home lab) |
 | [`certs/`](certs/) | Certification study tracker |
 
 ## Skills I'm building
