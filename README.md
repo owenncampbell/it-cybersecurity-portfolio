@@ -8,8 +8,8 @@ I'm not presenting this as professional experience — it's a working record of 
 
 | Folder | What it covers |
 |---|---|
-| [`projects/`](projects/) | Hands-on projects — networking, blue-team detection, and links out to standalone project repos (like the home lab) |
-| [`certs/`](certs/) | Certification study tracker |
+| [`projects/`](projects/) | Hands-on projects |
+| [`certs/`](certs/) | Certification tracker |
 
 ## Skills I'm building
 
