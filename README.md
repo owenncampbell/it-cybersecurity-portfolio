@@ -24,7 +24,6 @@ I'm not presenting this as professional experience — it's a working record of 
 
 - [x] CompTIA Security+
 - [ ] CompTIA Network+
-- [ ] TryHackMe SOC Level 1 path
 
 See [`certs/README.md`](certs/README.md) for study log details.
 
