@@ -31,5 +31,5 @@ See [`certs/README.md`](certs/README.md) for study log details.
 ## Contact
 
 - GitHub: [owenncampbell](https://github.com/owenncampbell)
-- Email: _add your preferred contact email here_
-- LinkedIn: _add link here_
+- Email: campbellowen32@gmail.com
+- LinkedIn: www.linkedin.com/in/owen-campbell-7ab73420a
