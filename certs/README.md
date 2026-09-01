@@ -13,5 +13,5 @@
 Keep short dated entries here as you go — this becomes evidence of consistent, real progress, which matters more to reviewers than the cert itself.
 
 ```
-2026-08-31 - Set up portfolio repo, started subnetting practice.
+2026-08-31 - Set up portfolio repo, added Security+ certification.
 ```
