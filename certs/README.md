@@ -5,8 +5,8 @@
 | Certification / Path | Status | Target date | Notes |
 |---|---|---|---|
 | CompTIA Security+ | ✅ Earned | | |
-| CompTIA Network+ | Not started |Sep. 2026| |
-| TryHackMe: SOC Level 1 | Not started | | |
+| CompTIA Network+ | Not started | Sep. 2026 | |
+
 
 ## Study log
 
