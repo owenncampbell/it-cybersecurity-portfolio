@@ -7,7 +7,6 @@
 | CompTIA Security+ | ✅ Earned | | |
 | CompTIA Network+ | Not started | Sep. 2026 | |
 
-
 ## Study log
 
 Keep short dated entries here as you go — this becomes evidence of consistent, real progress, which matters more to reviewers than the cert itself.
