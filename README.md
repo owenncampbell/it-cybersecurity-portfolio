@@ -1,8 +1,6 @@
 # IT & Cybersecurity Portfolio
 
-Hi, I'm Owen — a student building hands-on skills in networking, systems administration, and defensive security (blue team / SOC). This repo is where I document my home lab, notes, and small projects as I learn.
-
-I'm not presenting this as professional experience — it's a working record of what I'm practicing and building. Each folder below either holds real reference material I use, or a template I fill in as I complete the work.
+Hi, my name is Owen Campbell, a cybersecurity student at Moraine Park Technical College. In my program, I am building hands-on skills in networking, systems administration, defensive security (blue team / SOC), and much more. This repo is where I document my home lab, notes, and projects as I learn.
 
 ## What's in here
 
