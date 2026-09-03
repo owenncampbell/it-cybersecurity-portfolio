@@ -14,3 +14,6 @@ Keep short dated entries here as you go — this becomes evidence of consistent,
 ```
 2026-08-31 - Set up portfolio repo, added Security+ certification.
 ```
+```
+2026-09-03 - Created study tool consisting of port/protocol matching as well as a cable pinout simulation.
+```
