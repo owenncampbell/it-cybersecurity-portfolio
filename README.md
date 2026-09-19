@@ -1,6 +1,6 @@
 # IT & Cybersecurity Portfolio
 
-Hi, my name is Owen Campbell, a cybersecurity student at Moraine Park Technical College. In my program, I am building hands-on skills in networking, systems administration, defensive security (blue team / SOC), and much more. This repo is where I document my home lab, notes, and projects as I learn.
+My name is Owen Campbell, I'm a cybersecurity student at Moraine Park Technical College. In my IT-Cybersecurity program, I am building hands-on skills in networking, systems administration, defensive security, and more. This repo acts as my portfolio for all things IT and cybersecurity.
 
 ## What's in here
 
@@ -21,7 +21,8 @@ Hi, my name is Owen Campbell, a cybersecurity student at Moraine Park Technical 
 ## Certifications
 
 - [x] CompTIA Security+
-- [ ] CompTIA Network+
+- [x] CompTIA Network+
+- [ ] CompTIA A+
 
 See [`certs/README.md`](certs/README.md) for study log details.
 
