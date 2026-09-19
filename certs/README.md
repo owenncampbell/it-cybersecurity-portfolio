@@ -1,6 +1,4 @@
-# Certification & Learning Tracker
-
-## Status
+# Certification Tracker
 
 | Certification / Path | Status | Date Earned |
 |---|---|---|
