@@ -16,7 +16,6 @@ My name is Owen Campbell, I'm a cybersecurity student at Moraine Park Technical 
 | Networking | TCP/IP, subnetting/CIDR, VLANs, routing, Wireshark |
 | Systems Administration | Windows Server, Active Directory, Linux (Ubuntu/Debian), virtualization (VirtualBox/Proxmox) |
 | Blue Team / SOC | Log analysis, Sigma detection rules, SSH/auth log triage, incident response |
-| Scripting | Python (log parsing / automation), Bash |
 
 ## Certifications
 
@@ -24,7 +23,7 @@ My name is Owen Campbell, I'm a cybersecurity student at Moraine Park Technical 
 - [x] CompTIA Network+
 - [ ] CompTIA A+
 
-See [`certs/README.md`](certs/README.md) for study log details.
+See [`certs/README.md`](certs/README.md) for more details.
 
 ## Contact
 
