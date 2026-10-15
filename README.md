@@ -13,7 +13,7 @@ A helpdesk environment built with Docker:
 
 ### [Phishing Email Analyzer](https://github.com/owenncampbell/phishing-email-analyzer)
 
-A Python command-line tool that triages raw `.eml` files the way a SOC analyst would:
+A Python command-line tool that triages raw `.eml` files the way an SOC analyst would:
 - **SPF / DKIM / DMARC** results and **relay path** reconstruction to find the true origin IP
 - **Link analysis**: deceptive link text, redirector unwrapping (e.g. hidden Bing redirects), defanged output
 - **Attachment hashing** (SHA-256, in memory) and **risk scoring** against 20+ phishing red-flag rules
