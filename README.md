@@ -11,6 +11,13 @@ A helpdesk environment built with Docker:
 - **Tier 1 troubleshooting runbooks** for password resets/lockouts, network connectivity, printers and slow computers
 - **Worked example tickets** with internal triage notes, customer-facing replies and status changes
 
+### [Phishing Email Analyzer](https://github.com/owenncampbell/phishing-email-analyzer)
+
+A Python command-line tool that triages raw `.eml` files the way a SOC analyst would:
+- **SPF / DKIM / DMARC** results and **relay path** reconstruction to find the true origin IP
+- **Link analysis**: deceptive link text, redirector unwrapping (e.g. hidden Bing redirects), defanged output
+- **Attachment hashing** (SHA-256, in memory) and **risk scoring** against 20+ phishing red-flag rules
+
 ## Skills
 
 **Hands-on (shown in projects)**
@@ -20,6 +27,8 @@ A helpdesk environment built with Docker:
 | Help Desk | Ticket triage and prioritization, escalation, runbook writing, customer communication (osTicket) |
 | Linux & Containers | Ubuntu, Docker Compose |
 | Networking | TCP/IP, DNS and connectivity troubleshooting |
+| Email Security | Phishing triage, header analysis, SPF/DKIM/DMARC, IOC extraction and defanging |
+| Scripting | Python (email parsing, regex, argparse, pytest) |
 
 **Coursework / currently learning**
 
